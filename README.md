@@ -1,16 +1,22 @@
-## Hi there 👋
+# ðŸ‘‹ Hi, I'm Juvinta Peterson
 
-<!--
-**juvintatech/Juvintatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech freelancer from Kenya ðŸ‡°ðŸ‡ª specializing in:
 
-Here are some ideas to get you started:
+- ðŸ”§ CCTV Installations & Remote Support
+- ðŸ’¡ STEM Tutoring (Math, Physics, ICT)
+- ðŸ§  Learning Python & AI tools
+- ðŸŒ Open to global remote jobs on platforms like Mercor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ðŸ›  Projects Coming Soon:
+- `hello.py` â€“ Simple Python starter
+- CCTV system layout demo (PDF or Markdown)
+- Arduino + motion sensor project (Smart Home Demo)
+- Freelance client quote template
+
+---
+
+### ðŸ“« Let's connect!
+- Email: juvinta.tech@gmail.com
+- WhatsApp: +254 0115 006 114
